@@ -1,0 +1,13 @@
+# EDSB25 — Project Environment Setup
+
+This folder contains the **environment.yml** file used to create the Python environment for our Attrition Prediction project.  
+All team members using VS Code can recreate the same setup by following the steps below.
+
+---
+
+## Create the Conda Environment
+
+Open a terminal in VS Code and run:
+
+```bash
+conda env create -f env/environment.yml
