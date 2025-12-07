@@ -22,7 +22,7 @@ Team Members
 | -------------- | ---------------- |
 | **20241646**   | Carla Ferreira   |
 | **20241147**   | Cristiana Varela |
-| **20240576**   | Fernanda Peres   |
+| **20240576**   | Fernanda Dametto |
 | **20241598**   | Sofia Salvado    |
 
 
