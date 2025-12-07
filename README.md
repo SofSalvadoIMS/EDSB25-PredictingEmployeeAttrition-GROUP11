@@ -1,6 +1,5 @@
 # Predicting Employee Attrition  
 Enterprise Data Science Bootcamp 2025 – NOVA IMS  
-**Final Project – Submission Date:** 5 December 2025  
 
 ---
 
