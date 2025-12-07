@@ -65,8 +65,6 @@ The final best-performing model was a tuned XGBoost classifier, offering high pr
 │   ├── eda.ipynb              # Exploratory Data Analysis
 │   ├── graphs.ipynb           # Graph generation
 │   ├── model.ipynb            # Final Model
-│   ├── modelimprove_fail.ipynb# Tests & alternative models that failed
-│   └── modelling.ipynb        # First Model
 │
 ├── problem_description/       # Problem statement and context
 │   └── Dataset.pdf
